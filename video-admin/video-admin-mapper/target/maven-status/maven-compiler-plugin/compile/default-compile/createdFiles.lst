@@ -1,0 +1,4 @@
+com\video\mapper\VideosMapper.class
+com\video\mapper\UsersMapper.class
+com\video\mapper\BgmMapper.class
+com\video\mapper\UsersReportMapper.class

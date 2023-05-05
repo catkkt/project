@@ -1,0 +1,2 @@
+com\video\controller\HelloController.class
+com\video\interceptor\LoginInterceptor.class
